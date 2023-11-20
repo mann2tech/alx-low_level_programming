@@ -1,4 +1,4 @@
-[200~#include "main.h"
+#include "main.h"
 
 /**
  * * _strdup - returns a cursor to a newly allocated
