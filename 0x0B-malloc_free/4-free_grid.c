@@ -3,9 +3,9 @@
 #include <stdio.h>
 
 /**
- * free_grid - frees 2D grid
+ * free_grid - frees a 2d grid
  * @grid: 2D array
- * @height: height of array 
+ * @height: array height
  *
  * Return: none
  */
