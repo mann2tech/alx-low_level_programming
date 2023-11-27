@@ -3,11 +3,11 @@
 /*
  * main - prints the name of the file compiled from
  *
- * Return: ok
+ * Return: Always 0 (Ok)
  */
 
 int main(void)
 {
-	printf("%s\n", __BASE_FILE__);
+	printf("%s\n", __FILE__);
 	return (0);
 }
