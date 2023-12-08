@@ -2,10 +2,10 @@
 #include <stdio.h>
 
 /**
- * print_list - print linked list elements 
+ * print_list - print elements of linkedlist
  * @h: linked list
  *
- * Return: no of nodes
+ * Return: number of nodes
  */
 
 size_t print_list(const list_t *h)
